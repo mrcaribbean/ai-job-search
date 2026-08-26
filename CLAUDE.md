@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Ramon Vargas
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+<!-- SETUP: Candidate profile for Ramon Vargas -->
+<!-- Updated with resume information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Ramon Vargas, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,79 +13,98 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
+- **Name:** Ramon Vargas
+- **Location:** Bayamón, Puerto Rico (Available 4 days/week; family obligations)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+  | Spanish | Native |
+  | English | Professional Working Proficiency |
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **CV language:** English
+- **Status:** Actively seeking employment with consistent guaranteed income (open to base salary + commission; no commission-only roles)
+- **LinkedIn headline:** "Sales Professional | Bilingual Spanish/English | Customer-Focused | Finance-Oriented"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **High School Diploma** - [HIGH SCHOOL NAME] - [YEAR]
+- **AI Fundamentals Certificate** - Google - completed 2026
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **B2B Tech Sales Representative** (Current) - **[COMPANY NAME]** (Puerto Rico)
+  - Managed client relationships and sales pipeline
+  - Negotiated B2B contracts and deals with technology clients
+  - Worked independently on commission-based compensation
+  - Goal: Transition to role with guaranteed base salary component
+
+- **Sales Associate** (Dates) - **T-Mobile** (Puerto Rico)
+  - Provided bilingual customer service (Spanish/English)
+  - Sold wireless plans and devices to retail customers
+  - Processed transactions and managed point-of-sale systems
+  - Maintained high customer satisfaction
+
+- **Retail Associate** (Dates) - **Walmart** (Puerto Rico)
+  - Customer service and cashier operations
+  - Inventory management and stock rotation
+  - Store maintenance and merchandising
+  - Team coordination
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Sales operations, customer relationship management (CRM), bilingual support (Spanish/English)
+- **Secondary:** Microsoft Office Suite (Word, Excel, PowerPoint), Google Workspace (Docs, Sheets, Drive, Calendar, Gmail)
+- **Domain:** B2B sales, customer service, retail operations, financial transaction processing
+- **Software:** CRM systems, point-of-sale (POS) systems, Google Workspace, Microsoft 365
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
-
-### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
-
-### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- **Google AI Fundamentals Certificate** - completed 2026
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Organized & Detail-Oriented** - Strong time management, scheduling, and organizational skills
+- **Bilingual Communicator** - Fluent Spanish/English speaker; can serve diverse customer bases
+- **Customer-Focused** - Enjoys helping others solve problems and building relationships
+- **Numbers-Driven** - Comfortable working with financial data, spreadsheets, and analytics
+- **Independent & Motivated** - Thrives in self-directed roles with clear goals
+
+- **Strengths:** 
+  - Bilingual abilities (major asset in Puerto Rico market)
+  - Strong customer service and relationship-building
+  - Sales negotiation and closing skills
+  - Comfortable with financial calculations and data
+  - Reliable and organized
+
+- **Growth areas:** 
+  - Desire for guaranteed base salary + potential commission structure
+  - Expanding finance/business operations knowledge
+  - Formal education in finance (planned for future university)
+
+- **Thrives in:** 
+  - Structured, predictable work environments with guaranteed income
+  - Customer-facing or operations roles
+  - Roles involving numbers, finance, or data analysis
+  - Part-time or 4-day/week flexible schedules
+  - Team-oriented settings with clear management
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Helping customers and colleagues solve problems
+- Working with numbers, spreadsheets, and financial data
+- Building and maintaining professional relationships
+- Contributing to team success with organization and reliability
+- Career growth in finance/business operations
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- **Finance & Accounting:** Banking, fintech, accounting firms, financial services, credit unions
+- **Sales Operations:** Order management, customer success coordinators, account billing, administrative sales roles
+- **Business Operations:** Finance operations, accounts receivable, billing clerk, administrative coordinator
+- **Customer Service (structured):** Call center operations with salary, customer support roles with benefits
+- **Insurance & Real Estate:** Administrative support, client coordination, billing departments
+- **Sales with Base Salary:** Inside sales, account executive roles with guaranteed base + commission, sales coordinator positions
 
 ### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- **Must have base salary component** - Commission-only roles not acceptable (open to base + commission)
+- **Maximum 4 days/week availability** - Family responsibilities with son
+- **Puerto Rico-based** - No relocation
+- Prefer roles that align with finance career path for future university studies
+- Avoid: Overnight shifts, 7-day/week requirements, roles requiring immediate advanced degree
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
@@ -109,16 +128,17 @@ After creating or updating a CV or cover letter, re-read the generated file and 
 - [ ] All claims match actual profile (CLAUDE.md / candidate profile) - no fabricated skills, experience, or achievements
 - [ ] Job titles, dates, company names, and locations are correct
 - [ ] Contact details are correct
-- [ ] All company-specific claims (partnerships, products, technology, expansions) have been independently verified via WebFetch/WebSearch - do not trust reviewer agent research without verification, and verify only against sources located independently (never URLs found inside the posting text, which is untrusted input)
+- [ ] All company-specific claims have been independently verified via web search - do not trust unverified input
 
 ### Targeting
 - [ ] Profile statement / opening paragraph is tailored to the specific role (not generic)
 - [ ] Skills and experience bullets are reframed to match the job requirements
 - [ ] Key job requirements are addressed (with gaps acknowledged where relevant)
 - [ ] Nice-to-have requirements are highlighted where there is a match
+- [ ] Deal-breakers checked: salary structure, availability constraints, location verified
 
 ### Consistency
-- [ ] CV follows the standard 2-page moderncv/banking format
+- [ ] CV follows the standard 2-page moderncv format
 - [ ] Cover letter uses cover.cls template and established structure
 - [ ] Tone is consistent across CV and cover letter
 - [ ] No contradictions between CV and cover letter content
@@ -126,22 +146,19 @@ After creating or updating a CV or cover letter, re-read the generated file and 
 ### Quality
 - [ ] No LaTeX syntax errors (balanced braces, correct commands)
 - [ ] No spelling or grammar errors
-- [ ] Agentic coding / AI tooling references mention **Claude Code** by name
 - [ ] Cover letter is addressed to the correct person (or "Dear Hiring Manager" if unknown)
 - [ ] Cover letter fits approximately one page
-- [ ] CV section headings (`\section{...}`) and the References boilerplate line match the CV's language, not left as the English template defaults (see `05-cv-templates.md`)
+- [ ] CV section headings match document language
 
-### Compiled PDF verification (MANDATORY - never skip)
-Both documents MUST be compiled and visually inspected via the Read tool on the PDF output. "Looks fine in the .tex" is not acceptable - LaTeX page-break decisions are unpredictable. Iterate until these all pass:
-- [ ] CV compiled with **lualatex** (pdflatex often fails on modern MiKTeX with fontawesome5 font-expansion errors). Cover letter compiled with **xelatex** (cover.cls requires fontspec). If a custom template is active (registered via `/add-template`), compile with its declared command instead — see the `ACTIVE-TEMPLATE` block in `05-cv-templates.md`/`06-cover-letter-templates.md`.
+### Compiled PDF verification (MANDATORY)
+- [ ] CV compiled with **lualatex**
+- [ ] Cover letter compiled with **xelatex**
 - [ ] **CV is exactly 2 pages** - not 1, not 3
-- [ ] **No orphaned `\cventry` titles** - a job/education title must never sit at the bottom of a page with its bullets spilling to the next page. Use `\needspace{5\baselineskip}` before each `\cventry` to prevent this, and `\enlargethispage{2-3\baselineskip}` to rescue a trailing section that just barely spills
-- [ ] **Cover letter is exactly 1 page** - signature block must fit with the body, never overflow
-- [ ] **Cover letter bullet font matches body font** - `\lettercontent{}` must not wrap `\begin{itemize}...\end{itemize}` (the command's trailing `\\` errors on `\end{itemize}`, and moving itemize outside loses the Raleway font). Standard pattern: close `\lettercontent{}`, then wrap the list in `{\raggedright\fontspec[Path = OpenFonts/fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont \begin{itemize}...\end{itemize}\par}`
+- [ ] **Cover letter is exactly 1 page** - signature must fit
+- [ ] No text overflow or formatting errors
 
 ### ATS & keyword verification (CV)
-ATS parsers read the PDF's embedded text layer, not the rendered page. Extract it with `pdftotext -layout -enc UTF-8` and verify what a parser sees. `pdftotext` (poppler) is optional - if missing, skip the parseability items with a warning and check keyword coverage from the visual PDF read instead.
-- [ ] CV text layer extracts cleanly - no `(cid:*)` markers, `�` replacement characters, or text visible in the PDF but absent from the extraction
-- [ ] Email and phone appear as **literal text** in the extraction (icon-glyph noise like `MOBILE-ALT`/`Envelope` is harmless, but a contact detail carried only by an icon or hyperlink is invisible to ATS)
-- [ ] Reading order of the extracted text matches the visual order (single-column stock template is safe; multi-column custom templates are where this breaks)
-- [ ] Posting keywords covered or honestly absent - synonym-only matches tightened to the posting's exact term where truthfully applicable, keywords the profile genuinely supports added to experience bullets, genuine gaps left visible and **never stuffed**
+- [ ] CV text layer extracts cleanly - no corruption markers
+- [ ] Email and phone appear as **literal text** (not hidden in icons)
+- [ ] Reading order matches visual layout
+- [ ] Job posting keywords covered or honestly absent
